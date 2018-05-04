@@ -1,0 +1,294 @@
+{
+    "2016-03-31": {
+        "day_name": "Thursday", 
+        "sentiment": 0.12646382337060305
+    }, 
+    "2016-04-01": {
+        "day_name": "Friday", 
+        "sentiment": 0.08601738539238539
+    }, 
+    "2016-04-02": {
+        "day_name": "Saturday", 
+        "sentiment": 0.0748730851079336
+    }, 
+    "2016-04-03": {
+        "day_name": "Sunday", 
+        "sentiment": 0.07681195627913256
+    }, 
+    "2016-04-04": {
+        "day_name": "Monday", 
+        "sentiment": 0.08868282866909237
+    }, 
+    "2016-04-05": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.09346664824941137
+    }, 
+    "2016-04-06": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.06147288247144085
+    }, 
+    "2016-04-07": {
+        "day_name": "Thursday", 
+        "sentiment": 0.054956906876042384
+    }, 
+    "2016-04-08": {
+        "day_name": "Friday", 
+        "sentiment": 0.08745150670150682
+    }, 
+    "2016-04-09": {
+        "day_name": "Saturday", 
+        "sentiment": 0.07560125673646083
+    }, 
+    "2016-04-10": {
+        "day_name": "Sunday", 
+        "sentiment": 0.05148689572804888
+    }, 
+    "2016-04-11": {
+        "day_name": "Monday", 
+        "sentiment": 0.09089738246351449
+    }, 
+    "2016-04-12": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.07023417802507477
+    }, 
+    "2016-04-13": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.09044669130812576
+    }, 
+    "2016-04-14": {
+        "day_name": "Thursday", 
+        "sentiment": 0.06430997764445556
+    }, 
+    "2016-04-15": {
+        "day_name": "Friday", 
+        "sentiment": 0.05733542897833002
+    }, 
+    "2016-04-16": {
+        "day_name": "Saturday", 
+        "sentiment": 0.06164751176180247
+    }, 
+    "2016-04-17": {
+        "day_name": "Sunday", 
+        "sentiment": 0.06688803777430827
+    }, 
+    "2016-04-18": {
+        "day_name": "Monday", 
+        "sentiment": 0.09094462521168957
+    }, 
+    "2016-04-19": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.06594690068089491
+    }, 
+    "2016-04-20": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.0822649769008525
+    }, 
+    "2016-04-21": {
+        "day_name": "Thursday", 
+        "sentiment": 0.09688867376875267
+    }, 
+    "2016-04-22": {
+        "day_name": "Friday", 
+        "sentiment": 0.07300036634594112
+    }, 
+    "2016-04-23": {
+        "day_name": "Saturday", 
+        "sentiment": 0.09092766555217621
+    }, 
+    "2016-04-24": {
+        "day_name": "Sunday", 
+        "sentiment": 0.08321287336100651
+    }, 
+    "2016-04-25": {
+        "day_name": "Monday", 
+        "sentiment": 0.03977905852815832
+    }, 
+    "2016-04-26": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.07605483592262442
+    }, 
+    "2016-04-27": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.07202419273333671
+    }, 
+    "2016-04-28": {
+        "day_name": "Thursday", 
+        "sentiment": 0.060613812497150414
+    }, 
+    "2016-04-29": {
+        "day_name": "Friday", 
+        "sentiment": 0.07423830811162453
+    }, 
+    "2016-04-30": {
+        "day_name": "Saturday", 
+        "sentiment": 0.07679196758472485
+    }, 
+    "2016-05-01": {
+        "day_name": "Sunday", 
+        "sentiment": 0.058914525388162914
+    }, 
+    "2016-05-02": {
+        "day_name": "Monday", 
+        "sentiment": 0.07382164473359507
+    }, 
+    "2016-05-03": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.06561863201975256
+    }, 
+    "2016-05-04": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.08261339491805438
+    }, 
+    "2016-05-05": {
+        "day_name": "Thursday", 
+        "sentiment": 0.07573121815598659
+    }, 
+    "2016-05-06": {
+        "day_name": "Friday", 
+        "sentiment": 0.06799245094055553
+    }, 
+    "2016-05-07": {
+        "day_name": "Saturday", 
+        "sentiment": 0.06251848447467007
+    }, 
+    "2016-05-08": {
+        "day_name": "Sunday", 
+        "sentiment": 0.07314012946527974
+    }, 
+    "2016-05-09": {
+        "day_name": "Monday", 
+        "sentiment": 0.08466570650571553
+    }, 
+    "2016-05-10": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.0984395461331291
+    }, 
+    "2016-05-11": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.09529644453299144
+    }, 
+    "2016-05-12": {
+        "day_name": "Thursday", 
+        "sentiment": 0.08790097319517581
+    }, 
+    "2016-05-13": {
+        "day_name": "Friday", 
+        "sentiment": 0.049337369977621184
+    }, 
+    "2016-05-14": {
+        "day_name": "Saturday", 
+        "sentiment": 0.04147956434569087
+    }, 
+    "2016-05-15": {
+        "day_name": "Sunday", 
+        "sentiment": 0.06749067507784615
+    }, 
+    "2016-05-16": {
+        "day_name": "Monday", 
+        "sentiment": 0.10241468462755376
+    }, 
+    "2016-05-17": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.06927807839517977
+    }, 
+    "2016-05-18": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.027078827567051437
+    }, 
+    "2016-05-19": {
+        "day_name": "Thursday", 
+        "sentiment": 0.05854794731672459
+    }, 
+    "2016-05-20": {
+        "day_name": "Friday", 
+        "sentiment": 0.04361292005596683
+    }, 
+    "2016-05-21": {
+        "day_name": "Saturday", 
+        "sentiment": 0.08621036271014647
+    }, 
+    "2016-05-22": {
+        "day_name": "Sunday", 
+        "sentiment": 0.0620564393143036
+    }, 
+    "2016-05-23": {
+        "day_name": "Monday", 
+        "sentiment": 0.08527502040961883
+    }, 
+    "2016-05-24": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.09827185947782387
+    }, 
+    "2016-05-25": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.08931670953804775
+    }, 
+    "2016-05-26": {
+        "day_name": "Thursday", 
+        "sentiment": 0.06266936899008553
+    }, 
+    "2016-05-27": {
+        "day_name": "Friday", 
+        "sentiment": 0.048361213813815626
+    }, 
+    "2016-05-28": {
+        "day_name": "Saturday", 
+        "sentiment": 0.05678804179774676
+    }, 
+    "2016-05-29": {
+        "day_name": "Sunday", 
+        "sentiment": 0.018231150024029644
+    }, 
+    "2016-05-30": {
+        "day_name": "Monday", 
+        "sentiment": 0.10596848308920638
+    }, 
+    "2016-05-31": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.06399981531379312
+    }, 
+    "2016-06-01": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.10555608702357218
+    }, 
+    "2016-06-02": {
+        "day_name": "Thursday", 
+        "sentiment": 0.04682136574874349
+    }, 
+    "2016-06-03": {
+        "day_name": "Friday", 
+        "sentiment": 0.043131470824584586
+    }, 
+    "2016-06-04": {
+        "day_name": "Saturday", 
+        "sentiment": 0.08747693201859866
+    }, 
+    "2016-06-05": {
+        "day_name": "Sunday", 
+        "sentiment": 0.12115118424522225
+    }, 
+    "2016-06-06": {
+        "day_name": "Monday", 
+        "sentiment": 0.06487247987181638
+    }, 
+    "2016-06-07": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.09105423811915525
+    }, 
+    "2016-06-12": {
+        "day_name": "Sunday", 
+        "sentiment": 0.09917816983854719
+    }, 
+    "2016-06-13": {
+        "day_name": "Monday", 
+        "sentiment": 0.11419378130039913
+    }, 
+    "2016-06-14": {
+        "day_name": "Tuesday", 
+        "sentiment": 0.10448344803058132
+    }, 
+    "2016-06-15": {
+        "day_name": "Wednesday", 
+        "sentiment": 0.07383693635247504
+    }
+}
